@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [image of steam](https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png)
